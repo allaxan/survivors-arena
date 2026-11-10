@@ -1,0 +1,6 @@
+# Identifiants de la base (ne jamais publier)
+config.php
+
+# Fichiers système macOS
+.DS_Store
+._*
