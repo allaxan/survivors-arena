@@ -4,6 +4,8 @@
 
 Petit projet PHP/MySQL orienté objet autour d’un système de personnages et de combats (univers inspiré de *The Last of Us*).
 
+Utilisation de l'IA pour le commit sur gitub il y a peu pour que les recruteurs et random puissent consulter le code, développement fait l'année dernière à la main et avec aide étape par étape de l'IA
+
 ## Fonctionnalités
 
 - Affichage des personnages sous forme de cartes (stats, rareté, faction, image, description).
